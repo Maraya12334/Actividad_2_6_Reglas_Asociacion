@@ -1,3 +1,7 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maraya12334/Actividad_2_6_Reglas_Asociacion/blob/main/Actividad_2_6_Reglas_Asociacion.ipynb)
+
+
+
 # Actividad 2.6: Implementación de Reglas de Asociación
 
 ## Objetivo
